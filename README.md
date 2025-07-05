@@ -92,3 +92,5 @@ Concept	Usage
 | Serialization         | Save/load game state with `ObjectOutputStream` and `ObjectInputStream` |
 | Randomization         | Random loot, crit hits, dodge chance                                   |
 | Conditionals/Loops    | Battle system, turn loop, command handling                             |
+
+🧪 Sample Gameplay
