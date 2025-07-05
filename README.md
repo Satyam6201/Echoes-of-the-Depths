@@ -117,3 +117,14 @@ Enemy hit you! Your HP: 90
 You defeated Goblin!
 You gained 20 XP!
 ```
+🏆 Future Feature Ideas
+   *🔑 Locked rooms and key items
+
+   *🛒 Shop rooms to buy/sell items
+
+   *🧩 Puzzle rooms and side quests
+
+   *👑 Boss battles with cutscenes
+
+   *💬 NPC dialogue and interactions
+   
