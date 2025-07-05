@@ -94,3 +94,26 @@ Concept	Usage
 | Conditionals/Loops    | Battle system, turn loop, command handling                             |
 
 🧪 Sample Gameplay
+
+```
+Load previous game? (yes/no): no
+
+===== Turn 1 =====
+Player(Hero) HP: 100 Level: 1 XP: 0
+Map:
+[P] [?] [?]
+[?] [?] [?]
+[?] [?] [?]
+You're in: A quiet room.
+Found item: Health Potion (Heals: 20)
+Available commands: north, south, east, west, save, exit, inventory, map
+> east
+A wild Goblin (HP: 30) appears!
+Attack or use item?
+> attack
+You hit the enemy! Enemy HP: 10
+Enemy hit you! Your HP: 90
+...
+You defeated Goblin!
+You gained 20 XP!
+```
