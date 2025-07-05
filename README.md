@@ -118,13 +118,13 @@ You defeated Goblin!
 You gained 20 XP!
 ```
 🏆 Future Feature Ideas
-   *🔑 Locked rooms and key items
+   * 🔑 Locked rooms and key items
 
-   *🛒 Shop rooms to buy/sell items
+   * 🛒 Shop rooms to buy/sell items
 
-   *🧩 Puzzle rooms and side quests
+   * 🧩 Puzzle rooms and side quests
 
-   *👑 Boss battles with cutscenes
+   * 👑 Boss battles with cutscenes
 
-   *💬 NPC dialogue and interactions
+   * 💬 NPC dialogue and interactions
    
