@@ -59,3 +59,25 @@ AdventureGame/
 1. **Compile the code:**
    ```bash
    javac AdventureGame/*.java
+2. Run the game:
+
+bash
+Copy code
+java AdventureGame.Game
+
+3. Commands during gameplay:
+
+north, south, east, west — Move on the map
+
+attack — Attack an enemy
+
+use — Use an item (auto-uses the first one)
+
+inventory — View items in your bag
+
+map — View the explored map
+
+save — Save progress to save.dat
+
+exit — Quit the game
+
