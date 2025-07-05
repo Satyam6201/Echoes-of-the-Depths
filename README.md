@@ -71,13 +71,13 @@ java AdventureGame.Game
 
    * attack — Attack an enemy
 
-     use — Use an item (auto-uses the first one)
+   *  use — Use an item (auto-uses the first one)
 
-     inventory — View items in your bag
+   *  inventory — View items in your bag
 
-     map — View the explored map
+   *  map — View the explored map
 
-    save — Save progress to save.dat
+   *  save — Save progress to save.dat
 
-    exit — Quit the game
+   *  exit — Quit the game
 
