@@ -128,3 +128,6 @@ You gained 20 XP!
 
    * 💬 NPC dialogue and interactions
    
+🧑‍💻 Author
+Made by Satyam Kumar Mishra
+LinkedIn | GitHub: @Satyam6201
