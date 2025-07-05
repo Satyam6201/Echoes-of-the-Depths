@@ -40,4 +40,14 @@ Explore rooms, fight enemies, collect items, level up, and save/load your journe
 ---
 
 ## 📦 File Structure
-
+```
+AdventureGame/
+├── Game.java // Main game loop
+├── GameState.java // Serializable game data
+├── Player.java // Player logic and stats
+├── Enemy.java // Enemy logic and stats
+├── Item.java // Items with types, effects
+├── Room.java // Each cell in map
+├── SaveLoadUtil.java // Save/load system
+└── save.dat // (Created after first save)
+```
