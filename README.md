@@ -51,3 +51,11 @@ AdventureGame/
 ├── SaveLoadUtil.java // Save/load system
 └── save.dat // (Created after first save)
 ```
+
+---
+
+## 📖 How to Play
+
+1. **Compile the code:**
+   ```bash
+   javac AdventureGame/*.java
