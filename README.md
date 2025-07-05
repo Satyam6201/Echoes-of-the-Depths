@@ -84,9 +84,11 @@ java AdventureGame.Game
 🧠 Concepts Used
 
 Concept	Usage
-OOP (Object-Oriented)	Player, Enemy, Item, Room, GameState, SaveLoadUtil
-Arrays & 2D Arrays	Grid-based room map (Room[][]) and discovery map (boolean[][])
-Collections	ArrayList for inventory, HashSet for achievements
-Serialization	Save/load game state with ObjectOutputStream and ObjectInputStream
-Randomization	Random loot, crit hits, dodge chance
-Conditionals/Loops	Battle system, turn loop, command handling
+| Concept               | Usage                                                                  |
+| --------------------- | ---------------------------------------------------------------------- |
+| OOP (Object-Oriented) | Player, Enemy, Item, Room, GameState, SaveLoadUtil                     |
+| Arrays & 2D Arrays    | Grid-based room map (`Room[][]`) and discovery map (`boolean[][]`)     |
+| Collections           | `ArrayList` for inventory, `HashSet` for achievements                  |
+| Serialization         | Save/load game state with `ObjectOutputStream` and `ObjectInputStream` |
+| Randomization         | Random loot, crit hits, dodge chance                                   |
+| Conditionals/Loops    | Battle system, turn loop, command handling                             |
