@@ -61,9 +61,9 @@ AdventureGame/
    javac AdventureGame/*.java
 2. Run the game:
 
-bash
-Copy code
-java AdventureGame.Game
+  bash
+  Copy code
+  java AdventureGame.Game
 
 3. Commands during gameplay:
 
