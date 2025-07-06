@@ -67,7 +67,7 @@ java AdventureGame.Game
 
 3. Commands during gameplay:
 
- * north, south, east, west — Move on the map
+   * north, south, east, west — Move on the map
 
    * attack — Attack an enemy
 
